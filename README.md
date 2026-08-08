@@ -12,6 +12,11 @@ TorchGo 将知识卡片、应用题、章节检测、整体测试和模拟考试
 
 Android 版采用 Capacitor 封装离线 Web 应用；桌面版采用 Python/Tkinter。学习记录仅保存在用户设备上，不依赖服务器或账号。
 
+
+https://github.com/user-attachments/assets/928cba04-cf84-452b-b095-239fcb8b78a5
+
+
+
 ## 主要功能
 
 - 完整题库学习：知识卡片与应用题使用同一套可见内容。
