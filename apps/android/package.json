@@ -1,0 +1,24 @@
+{
+  "name": "torchgo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "TorchGo·火炬学 - offline PyTorch study and quiz app",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "check": "node --check www/app.js",
+    "sync": "cap sync android",
+    "build:apk:windows": "cap sync android && android\\gradlew.bat -p android assembleDebug",
+    "build:apk:unix": "cap sync android && ./android/gradlew -p ./android assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.0",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/core": "8.5.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.0"
+  }
+}

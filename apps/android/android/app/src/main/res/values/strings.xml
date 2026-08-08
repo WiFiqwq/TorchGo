@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TorchGo·火炬学</string>
+    <string name="title_activity_main">TorchGo·火炬学</string>
+    <string name="package_name">com.local.pytorchstudy</string>
+    <string name="custom_url_scheme">com.local.pytorchstudy</string>
+</resources>

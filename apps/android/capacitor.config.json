@@ -1,0 +1,9 @@
+{
+  "appId": "com.local.pytorchstudy",
+  "appName": "TorchGo·火炬学",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#FFF8F2"
+  }
+}
