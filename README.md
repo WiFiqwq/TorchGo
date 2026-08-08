@@ -17,7 +17,14 @@ Android 版采用 Capacitor 封装离线 Web 应用；桌面版采用 Python/Tki
 
 
 
-https://github.com/user-attachments/assets/fe58059b-3fb7-4009-be87-a9908ccebd76
+
+
+
+https://github.com/user-attachments/assets/5cda1c1c-7f7d-406a-8599-93c3a17a3757
+
+
+
+
 
 
 
