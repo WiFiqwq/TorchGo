@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="assets/torchgo-logo.png" width="150" alt="TorchGo Logo">
 </p>
@@ -136,7 +138,11 @@ TorchGo 不需要账号，Android 版不申请网络权限。学习进度、考�
 
 本项目采用 [MIT License](LICENSE)。你可以使用、修改、分发和用于商业项目，但需要保留原始版权与许可证声明。
 
-## 作者
+## 作者    
+
+https://github.com/user-attachments/assets/96128354-dcb6-4ee4-9440-38c52385c7e3
+
+
 
 - 开发者：王利群
 - 联系邮箱：lntano021114@gmail.com
