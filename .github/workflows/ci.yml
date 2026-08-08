@@ -15,7 +15,7 @@ jobs:
       run:
         working-directory: apps/android
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: actions/setup-node@v6
         with:
           node-version: 24
@@ -38,6 +38,6 @@ jobs:
   desktop:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Check Python syntax
         run: python -m compileall -q apps/desktop tools
