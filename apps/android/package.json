@@ -14,7 +14,7 @@
     "build:apk:unix": "cap sync android && ./android/gradlew -p ./android assembleDebug"
   },
   "dependencies": {
-    "@capacitor/android": "8.5.0",
+    "@capacitor/android": "8.5.1",
     "@capacitor/app": "^8.1.1",
     "@capacitor/core": "8.5.0"
   },
